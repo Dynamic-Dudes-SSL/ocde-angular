@@ -13,5 +13,5 @@ Friday, 01 October 2021 (Last Update - DJ)
 
 Tasks:
 <ul>
-    <li>Read about <a href="angular.io">Angular</a> - Everyone</li>
+    <li>Read about <a href="www.angular.io">Angular</a> - Everyone</li>
 </ul>
